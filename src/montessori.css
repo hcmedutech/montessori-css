@@ -1,0 +1,36 @@
+/*
+ * Holy Child Montessori
+ * 2019
+ *
+ * montessori.css
+ *
+ * */
+
+:root {
+
+  /* colors */
+  --primary-dark3: #1b5233;
+  --primary-dark2: #21653f;
+  --primary-dark1: #28784b;
+  --primary: #2e8b57;
+  --primary-light1: #349e63;
+  --primary-light2: #3bb16f;
+  --primary-light3: #44c17b;
+
+}
+
+.primary-dark3 { background-color: var(--primary-dark3) !important; }
+.primary-dark2 { background-color: var(--primary-dark2) !important; }
+.primary-dark1 { background-color: var(--primary-dark1) !important; }
+.primary { background-color: var(--primary) !important; }
+.primary-light1 { background-color: var(--primary-light1) !important; }
+.primary-light2 { background-color: var(--primary-light2) !important; }
+.primary-light3 { background-color: var(--primary-light3) !important; }
+
+.primary-dark3-text { color: var(--primary-dark3) !important; }
+.primary-dark2-text { color: var(--primary-dark2) !important; }
+.primary-dark1-text { color: var(--primary-dark1) !important; }
+.primary-text { color: var(--primary) !important; }
+.primary-light1-text { color: var(--primary-light1) !important; }
+.primary-light2-text { color: var(--primary-light2) !important; }
+.primary-light3-text { color: var(--primary-light3) !important; }
